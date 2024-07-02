@@ -18,7 +18,7 @@ There are three path searching algorithms you can use:
 
 You can run `Comparision.ipynb` to compare the three algorithms.
 
-<img src="Images/Results.png">
+<img src="Images/Result.png">
 
 You can also run `Analysis.ipynb` to compare the performance of the three algorithms over 100 tries.
 
