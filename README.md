@@ -17,6 +17,6 @@ There are three path searching algorithms you can use:
 - **A\*** (for this, the ending article is fixed as Minecraft)
 
 You can run `Comparision.ipynb` to compare the three algorithms.
-
+<img src="Results.png">
 You can also run `Analysis.ipynb` to compare the performance of the three algorithms over 100 tries.
 
